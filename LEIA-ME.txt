@@ -1,0 +1,12 @@
+Esportes da Nova Zelândia - apresentação animada
+
+O index.html já tem as fotos dentro dele e funciona sozinho.
+A pasta img tem as mesmas fotos separadas, só para guardar.
+
+Como abrir: dê dois cliques no index.html.
+Navegar: setas do teclado, espaço, clique nos lados da tela. Tecla F = tela cheia.
+
+Como publicar:
+- vercel.com/drop: arraste esta pasta.
+- app.netlify.com/drop: arraste esta pasta.
+- GitHub Pages: envie o index.html para um repositório e ative Settings > Pages.
